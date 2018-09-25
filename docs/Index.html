@@ -1,0 +1,103 @@
+<html>
+	<meta charset="utf-8">
+	<head>
+		<link rel="stylesheet" type="text/css" href="https://rawgit.com/masayuki0812/c3/master/c3.css">
+		<style>
+			div {
+    			height: 400px;
+    			/*width: 800px;*/
+				}
+			table {
+				font-family: arial, sans-serif;
+				border-collapse: collapse;
+				width: 100%;
+			}
+
+			td, th {
+				border: 1px solid #dddddd;
+				text-align: left;
+				padding: 8px;
+			}
+			tr:nth-child(even) {
+				background-color: #dddddd;
+			}
+			#snip, #citescore, #sjr  {
+    			width: 33%;
+    			display: inline-block;
+			}
+		</style>
+
+	</head>
+	<body>
+
+		<h1>HEALTH COMMUNICATION</h1>
+		<br/><br/>
+		<table>
+  			<tr>
+  				<td>SSID</td>
+  				<td>ssj0005642</td>
+  			</tr>
+  			<tr>
+  				<td>Title ID</td>
+  				<td>2320</td>
+  			</tr>
+  			<tr>
+  				<td>Provider</td>
+  				<td>Taylor & Francis (PRVAWR)</td>
+  			</tr>
+  			<tr>
+  				<td>ISSN(s)</td>
+  				<td>1041-0236</td>
+  			</tr>
+  			<tr>
+  				<td>EISSN(s)</td>
+  				<td>1532-7027</td>
+  			</tr>
+  			<tr>
+  				<td>DOI</td>
+  				<td>10.1080/hhth20</td>
+  			</tr>
+  			<tr>
+  				<td>Database (Package)</td>
+  				<td>Taylor & Francis Online (TFW)</td>
+  			</tr>
+  		<!-- 	<tr>
+  				<td>Scientific Journal Ranking (SJR)</td>
+  				<td>0.879 (2017)</td>
+  			</tr>
+  			<tr>
+  				<td>Source Normalized Impact per Paper (SNIP)</td>
+  				<td>1.065 (2017)</td>
+  			</tr>
+  			<tr>
+  				<td>CiteScore</td>
+  				<td>1.69 (2017)</td>
+  			</tr> -->
+  			<tr>
+  				<td>CiteScore Tracker</td>
+  				<td>1.33 (2018)</td>
+  			</tr>
+  		</table>
+
+  		<br/><br/>
+  		<h2>USAGE DATA STATISTICS</h2>
+		<div id="chart"></div>
+		<br/><br/>
+		<h2>JOURNAL METRICS</h2>
+		<div id="sjr"></div>	
+		<div id="snip"></div>	
+		<div id="citescore"></div>	
+		<br/><br/>
+		<h2>CORNELL PUBLICATION COUNTS</h2>
+		<div id="cornell"></div>	
+		<br/><br/>
+
+
+		<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+		<script src="c3.js"></script>
+		<script src="LineBarChart-SK.js"></script>
+		<script src="CornellChart-SK.js"></script>
+		<script src="sjr.js"></script>
+
+	</body>
+</html>
