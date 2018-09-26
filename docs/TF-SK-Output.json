@@ -1,0 +1,1630 @@
+{
+   "Howard Journal of Communications":{
+      "title":"Howard journal of communications",
+      "titleId":23974,
+      "provider":{
+         "name":"Taylor & Francis",
+         "code":"PRVAWR"
+      },
+      "database_package":{
+         "name":"Taylor & Francis Online",
+         "code":"TFW"
+      },
+      "status":"Subscribed",
+      "type":"Journal",
+      "issns":[
+         {
+            "value":"1064-6175",
+            "type":"Authority"
+         }
+      ],
+      "eissns":[
+         {
+            "value":"1096-4649",
+            "type":"Authority"
+         }
+      ],
+      "isbn13":null,
+      "accessData":null,
+      "collection":null,
+      "access":"",
+      "licencse":"",
+      "subjects":[
+         "Communication & Mass Media"
+      ],
+      "clickData":{
+         "journal":"The Howard journal of communications",
+         "database":"Taylor & Francis Online",
+         "issn":"1064-6175",
+         "clickCount":[
+            {
+               "year":2015,
+               "count":6,
+               "noOfRecords":114354
+            },
+            {
+               "year":2018,
+               "count":3,
+               "noOfRecords":114356
+            },
+            {
+               "year":2016,
+               "count":14,
+               "noOfRecords":114355
+            }
+         ]
+      },
+      "publisher":"Routledge",
+      "doi":"10.1080/uhjc20",
+      "overallUses":625.0,
+      "costperuse":3.7098765432098766,
+      "costUsageData":[
+         {
+            "year":2019,
+            "cost":601.0,
+            "use":null,
+            "turnaway":null
+         },
+         {
+            "year":2018,
+            "cost":481.0,
+            "use":35.0,
+            "turnaway":2.0
+         },
+         {
+            "year":2017,
+            "cost":null,
+            "use":289.0,
+            "turnaway":1.0
+         },
+         {
+            "year":2016,
+            "cost":null,
+            "use":235.0,
+            "turnaway":1.0
+         },
+         {
+            "year":2015,
+            "cost":null,
+            "use":66.0,
+            "turnaway":2.0
+         }
+      ],
+      "sjr":{
+         "year":2017,
+         "sjr":0.206
+      },
+      "snip":{
+         "year":2017,
+         "snip":0.554
+      },
+      "citeScore":{
+         "year":2017,
+         "citescore":0.45
+      },
+      "citeScoreTracker":{
+         "year":2018,
+         "citescoreTracker":0.31
+      },
+      "cornellPubCounter":{
+         "map":{
+            "1988":2
+         },
+         "count":2
+      },
+      "costUsagePrintLines":[
+         "\"Howard journal of communications\",\"ssj0001889\",\"23974\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1064-6175, type=Authority]]\",\"[EISSN [value=1096-4649, type=Authority]]\",\"10.1080/uhjc20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.554]\",\"SJR [year=2017, sjr=0.206]\",\"CiteScore [year=2017, citescore=0.45]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.31]\",\"[ClickCount [year=2015, count=6, noOfRecords=114354], ClickCount [year=2018, count=3, noOfRecords=114356], ClickCount [year=2016, count=14, noOfRecords=114355]]\",\"CornellPubCounter [map={1988=2}, count=2]\",\"2017\",\"null\",\"289.0\",\"1.0\",\"625.0\"",
+         "\"Howard journal of communications\",\"ssj0001889\",\"23974\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1064-6175, type=Authority]]\",\"[EISSN [value=1096-4649, type=Authority]]\",\"10.1080/uhjc20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.554]\",\"SJR [year=2017, sjr=0.206]\",\"CiteScore [year=2017, citescore=0.45]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.31]\",\"[ClickCount [year=2015, count=6, noOfRecords=114354], ClickCount [year=2018, count=3, noOfRecords=114356], ClickCount [year=2016, count=14, noOfRecords=114355]]\",\"CornellPubCounter [map={1988=2}, count=2]\",\"2016\",\"null\",\"235.0\",\"1.0\",\"625.0\"",
+         "\"Howard journal of communications\",\"ssj0001889\",\"23974\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1064-6175, type=Authority]]\",\"[EISSN [value=1096-4649, type=Authority]]\",\"10.1080/uhjc20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.554]\",\"SJR [year=2017, sjr=0.206]\",\"CiteScore [year=2017, citescore=0.45]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.31]\",\"[ClickCount [year=2015, count=6, noOfRecords=114354], ClickCount [year=2018, count=3, noOfRecords=114356], ClickCount [year=2016, count=14, noOfRecords=114355]]\",\"CornellPubCounter [map={1988=2}, count=2]\",\"2015\",\"null\",\"66.0\",\"2.0\",\"625.0\"",
+         "\"Howard journal of communications\",\"ssj0001889\",\"23974\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1064-6175, type=Authority]]\",\"[EISSN [value=1096-4649, type=Authority]]\",\"10.1080/uhjc20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.554]\",\"SJR [year=2017, sjr=0.206]\",\"CiteScore [year=2017, citescore=0.45]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.31]\",\"[ClickCount [year=2015, count=6, noOfRecords=114354], ClickCount [year=2018, count=3, noOfRecords=114356], ClickCount [year=2016, count=14, noOfRecords=114355]]\",\"CornellPubCounter [map={1988=2}, count=2]\",\"2019\",\"601.0\",\"null\",\"null\",\"625.0\"",
+         "\"Howard journal of communications\",\"ssj0001889\",\"23974\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1064-6175, type=Authority]]\",\"[EISSN [value=1096-4649, type=Authority]]\",\"10.1080/uhjc20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.554]\",\"SJR [year=2017, sjr=0.206]\",\"CiteScore [year=2017, citescore=0.45]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.31]\",\"[ClickCount [year=2015, count=6, noOfRecords=114354], ClickCount [year=2018, count=3, noOfRecords=114356], ClickCount [year=2016, count=14, noOfRecords=114355]]\",\"CornellPubCounter [map={1988=2}, count=2]\",\"2018\",\"481.0\",\"35.0\",\"2.0\",\"625.0\""
+      ],
+      "ssid":"ssj0001889"
+   },
+   "Media Psychology":{
+      "title":"Media Psychology",
+      "titleId":2228,
+      "provider":{
+         "name":"Taylor & Francis",
+         "code":"PRVAWR"
+      },
+      "database_package":{
+         "name":"Taylor & Francis Online",
+         "code":"TFW"
+      },
+      "status":"Subscribed",
+      "type":"Journal",
+      "issns":[
+         {
+            "value":"1521-3269",
+            "type":"Authority"
+         }
+      ],
+      "eissns":[
+         {
+            "value":"1532-785X",
+            "type":"Authority"
+         }
+      ],
+      "isbn13":null,
+      "accessData":null,
+      "collection":null,
+      "access":"",
+      "licencse":"",
+      "subjects":[
+         "Communication & Mass Media",
+         " Psychology"
+      ],
+      "clickData":{
+         "journal":"Media psychology",
+         "database":"Taylor & Francis Online",
+         "issn":"1521-3269",
+         "clickCount":[
+            {
+               "year":2015,
+               "count":28,
+               "noOfRecords":80148
+            },
+            {
+               "year":2017,
+               "count":13,
+               "noOfRecords":80150
+            },
+            {
+               "year":2016,
+               "count":26,
+               "noOfRecords":80149
+            },
+            {
+               "year":2018,
+               "count":7,
+               "noOfRecords":80151
+            }
+         ]
+      },
+      "publisher":"Routledge",
+      "doi":"10.1080/hmep20",
+      "overallUses":932.0,
+      "costperuse":5.5697940503432495,
+      "costUsageData":[
+         {
+            "year":2019,
+            "cost":1217.0,
+            "use":null,
+            "turnaway":null
+         },
+         {
+            "year":2015,
+            "cost":null,
+            "use":172.0,
+            "turnaway":null
+         },
+         {
+            "year":2018,
+            "cost":974.0,
+            "use":193.0,
+            "turnaway":null
+         },
+         {
+            "year":2017,
+            "cost":null,
+            "use":244.0,
+            "turnaway":null
+         },
+         {
+            "year":2016,
+            "cost":null,
+            "use":323.0,
+            "turnaway":1.0
+         }
+      ],
+      "sjr":{
+         "year":2017,
+         "sjr":2.108
+      },
+      "snip":{
+         "year":2017,
+         "snip":1.688
+      },
+      "citeScore":{
+         "year":2017,
+         "citescore":2.93
+      },
+      "citeScoreTracker":{
+         "year":2018,
+         "citescoreTracker":2.22
+      },
+      "cornellPubCounter":{
+         "map":{
+            "2003":1,
+            "2004":1,
+            "2007":1,
+            "2008":2,
+            "2009":1,
+            "2010":1,
+            "2011":1,
+            "2012":1,
+            "2013":1
+         },
+         "count":10
+      },
+      "costUsagePrintLines":[
+         "\"Media Psychology\",\"ssj0007571\",\"2228\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1521-3269, type=Authority]]\",\"[EISSN [value=1532-785X, type=Authority]]\",\"10.1080/hmep20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.688]\",\"SJR [year=2017, sjr=2.108]\",\"CiteScore [year=2017, citescore=2.93]\",\"CiteScoreTracker [year=2018, citescoreTracker=2.22]\",\"[ClickCount [year=2015, count=28, noOfRecords=80148], ClickCount [year=2017, count=13, noOfRecords=80150], ClickCount [year=2016, count=26, noOfRecords=80149], ClickCount [year=2018, count=7, noOfRecords=80151]]\",\"CornellPubCounter [map={2003=1, 2004=1, 2007=1, 2008=2, 2009=1, 2010=1, 2011=1, 2012=1, 2013=1}, count=10]\",\"2018\",\"974.0\",\"193.0\",\"null\",\"932.0\"",
+         "\"Media Psychology\",\"ssj0007571\",\"2228\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1521-3269, type=Authority]]\",\"[EISSN [value=1532-785X, type=Authority]]\",\"10.1080/hmep20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.688]\",\"SJR [year=2017, sjr=2.108]\",\"CiteScore [year=2017, citescore=2.93]\",\"CiteScoreTracker [year=2018, citescoreTracker=2.22]\",\"[ClickCount [year=2015, count=28, noOfRecords=80148], ClickCount [year=2017, count=13, noOfRecords=80150], ClickCount [year=2016, count=26, noOfRecords=80149], ClickCount [year=2018, count=7, noOfRecords=80151]]\",\"CornellPubCounter [map={2003=1, 2004=1, 2007=1, 2008=2, 2009=1, 2010=1, 2011=1, 2012=1, 2013=1}, count=10]\",\"2017\",\"null\",\"244.0\",\"null\",\"932.0\"",
+         "\"Media Psychology\",\"ssj0007571\",\"2228\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1521-3269, type=Authority]]\",\"[EISSN [value=1532-785X, type=Authority]]\",\"10.1080/hmep20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.688]\",\"SJR [year=2017, sjr=2.108]\",\"CiteScore [year=2017, citescore=2.93]\",\"CiteScoreTracker [year=2018, citescoreTracker=2.22]\",\"[ClickCount [year=2015, count=28, noOfRecords=80148], ClickCount [year=2017, count=13, noOfRecords=80150], ClickCount [year=2016, count=26, noOfRecords=80149], ClickCount [year=2018, count=7, noOfRecords=80151]]\",\"CornellPubCounter [map={2003=1, 2004=1, 2007=1, 2008=2, 2009=1, 2010=1, 2011=1, 2012=1, 2013=1}, count=10]\",\"2019\",\"1217.0\",\"null\",\"null\",\"932.0\"",
+         "\"Media Psychology\",\"ssj0007571\",\"2228\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1521-3269, type=Authority]]\",\"[EISSN [value=1532-785X, type=Authority]]\",\"10.1080/hmep20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.688]\",\"SJR [year=2017, sjr=2.108]\",\"CiteScore [year=2017, citescore=2.93]\",\"CiteScoreTracker [year=2018, citescoreTracker=2.22]\",\"[ClickCount [year=2015, count=28, noOfRecords=80148], ClickCount [year=2017, count=13, noOfRecords=80150], ClickCount [year=2016, count=26, noOfRecords=80149], ClickCount [year=2018, count=7, noOfRecords=80151]]\",\"CornellPubCounter [map={2003=1, 2004=1, 2007=1, 2008=2, 2009=1, 2010=1, 2011=1, 2012=1, 2013=1}, count=10]\",\"2016\",\"null\",\"323.0\",\"1.0\",\"932.0\"",
+         "\"Media Psychology\",\"ssj0007571\",\"2228\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1521-3269, type=Authority]]\",\"[EISSN [value=1532-785X, type=Authority]]\",\"10.1080/hmep20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.688]\",\"SJR [year=2017, sjr=2.108]\",\"CiteScore [year=2017, citescore=2.93]\",\"CiteScoreTracker [year=2018, citescoreTracker=2.22]\",\"[ClickCount [year=2015, count=28, noOfRecords=80148], ClickCount [year=2017, count=13, noOfRecords=80150], ClickCount [year=2016, count=26, noOfRecords=80149], ClickCount [year=2018, count=7, noOfRecords=80151]]\",\"CornellPubCounter [map={2003=1, 2004=1, 2007=1, 2008=2, 2009=1, 2010=1, 2011=1, 2012=1, 2013=1}, count=10]\",\"2015\",\"null\",\"172.0\",\"null\",\"932.0\""
+      ],
+      "ssid":"ssj0007571"
+   },
+   "Oriental Insects":{
+      "title":"ORIENTAL INSECTS",
+      "titleId":584848,
+      "provider":{
+         "name":"Taylor & Francis",
+         "code":"PRVAWR"
+      },
+      "database_package":{
+         "name":"Taylor & Francis Online",
+         "code":"TFW"
+      },
+      "status":"Subscribed",
+      "type":"Journal",
+      "issns":[
+         {
+            "value":"0030-5316",
+            "type":"Authority"
+         }
+      ],
+      "eissns":[
+         {
+            "value":"2157-8745",
+            "type":"Authority"
+         }
+      ],
+      "isbn13":null,
+      "accessData":null,
+      "collection":null,
+      "access":"",
+      "licencse":"",
+      "subjects":[
+         "Invertebrates & Protozoa"
+      ],
+      "clickData":{
+         "journal":"Oriental insects",
+         "database":"Taylor & Francis Online",
+         "issn":"0030-5316",
+         "clickCount":[
+            {
+               "year":2017,
+               "count":1,
+               "noOfRecords":89380
+            }
+         ]
+      },
+      "publisher":"Taylor & Francis",
+      "doi":"10.1080/toin20",
+      "overallUses":34.0,
+      "costperuse":44.0,
+      "costUsageData":[
+         {
+            "year":2019,
+            "cost":572.0,
+            "use":null,
+            "turnaway":null
+         },
+         {
+            "year":2018,
+            "cost":489.0,
+            "use":7.0,
+            "turnaway":null
+         },
+         {
+            "year":2016,
+            "cost":null,
+            "use":6.0,
+            "turnaway":null
+         },
+         {
+            "year":2017,
+            "cost":null,
+            "use":19.0,
+            "turnaway":null
+         },
+         {
+            "year":2015,
+            "cost":null,
+            "use":2.0,
+            "turnaway":null
+         }
+      ],
+      "sjr":{
+         "year":2017,
+         "sjr":0.162
+      },
+      "snip":{
+         "year":2017,
+         "snip":0.332
+      },
+      "citeScore":{
+         "year":2017,
+         "citescore":0.21
+      },
+      "citeScoreTracker":{
+         "year":2018,
+         "citescoreTracker":0.14
+      },
+      "cornellPubCounter":{
+         "map":{
+
+         },
+         "count":0
+      },
+      "costUsagePrintLines":[
+         "\"ORIENTAL INSECTS\",\"ssj0000502850\",\"584848\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0030-5316, type=Authority]]\",\"[EISSN [value=2157-8745, type=Authority]]\",\"10.1080/toin20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.332]\",\"SJR [year=2017, sjr=0.162]\",\"CiteScore [year=2017, citescore=0.21]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.14]\",\"[ClickCount [year=2017, count=1, noOfRecords=89380]]\",\"CornellPubCounter [map={}, count=0]\",\"2016\",\"null\",\"6.0\",\"null\",\"34.0\"",
+         "\"ORIENTAL INSECTS\",\"ssj0000502850\",\"584848\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0030-5316, type=Authority]]\",\"[EISSN [value=2157-8745, type=Authority]]\",\"10.1080/toin20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.332]\",\"SJR [year=2017, sjr=0.162]\",\"CiteScore [year=2017, citescore=0.21]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.14]\",\"[ClickCount [year=2017, count=1, noOfRecords=89380]]\",\"CornellPubCounter [map={}, count=0]\",\"2017\",\"null\",\"19.0\",\"null\",\"34.0\"",
+         "\"ORIENTAL INSECTS\",\"ssj0000502850\",\"584848\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0030-5316, type=Authority]]\",\"[EISSN [value=2157-8745, type=Authority]]\",\"10.1080/toin20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.332]\",\"SJR [year=2017, sjr=0.162]\",\"CiteScore [year=2017, citescore=0.21]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.14]\",\"[ClickCount [year=2017, count=1, noOfRecords=89380]]\",\"CornellPubCounter [map={}, count=0]\",\"2018\",\"489.0\",\"7.0\",\"null\",\"34.0\"",
+         "\"ORIENTAL INSECTS\",\"ssj0000502850\",\"584848\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0030-5316, type=Authority]]\",\"[EISSN [value=2157-8745, type=Authority]]\",\"10.1080/toin20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.332]\",\"SJR [year=2017, sjr=0.162]\",\"CiteScore [year=2017, citescore=0.21]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.14]\",\"[ClickCount [year=2017, count=1, noOfRecords=89380]]\",\"CornellPubCounter [map={}, count=0]\",\"2015\",\"null\",\"2.0\",\"null\",\"34.0\"",
+         "\"ORIENTAL INSECTS\",\"ssj0000502850\",\"584848\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0030-5316, type=Authority]]\",\"[EISSN [value=2157-8745, type=Authority]]\",\"10.1080/toin20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.332]\",\"SJR [year=2017, sjr=0.162]\",\"CiteScore [year=2017, citescore=0.21]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.14]\",\"[ClickCount [year=2017, count=1, noOfRecords=89380]]\",\"CornellPubCounter [map={}, count=0]\",\"2019\",\"572.0\",\"null\",\"null\",\"34.0\""
+      ],
+      "ssid":"ssj0000502850"
+   },
+   "The Journal of Environmental Education":{
+      "title":"Journal of Environmental Education",
+      "titleId":46138,
+      "provider":{
+         "name":"Taylor & Francis",
+         "code":"PRVAWR"
+      },
+      "database_package":{
+         "name":"Taylor & Francis Online",
+         "code":"TFW"
+      },
+      "status":"Subscribed",
+      "type":"Journal",
+      "issns":[
+         {
+            "value":"0095-8964",
+            "type":"Authority"
+         }
+      ],
+      "eissns":[
+         {
+            "value":"1940-1892",
+            "type":"Authority"
+         }
+      ],
+      "isbn13":null,
+      "accessData":null,
+      "collection":null,
+      "access":"",
+      "licencse":"",
+      "subjects":[
+         " Agriculture - General",
+         " Education - General",
+         "Environmental Sciences"
+      ],
+      "clickData":{
+         "journal":"The Journal of environmental education",
+         "database":"Taylor & Francis Online",
+         "issn":"0095-8964",
+         "clickCount":[
+            {
+               "year":2017,
+               "count":4,
+               "noOfRecords":115598
+            },
+            {
+               "year":2018,
+               "count":2,
+               "noOfRecords":115599
+            },
+            {
+               "year":2015,
+               "count":11,
+               "noOfRecords":115596
+            },
+            {
+               "year":2016,
+               "count":11,
+               "noOfRecords":115597
+            }
+         ]
+      },
+      "publisher":"Routledge",
+      "doi":"10.1080/vjee20",
+      "overallUses":921.0,
+      "costperuse":2.2768496420047732,
+      "costUsageData":[
+         {
+            "year":2018,
+            "cost":397.0,
+            "use":138.0,
+            "turnaway":null
+         },
+         {
+            "year":2019,
+            "cost":477.0,
+            "use":null,
+            "turnaway":null
+         },
+         {
+            "year":2016,
+            "cost":null,
+            "use":378.0,
+            "turnaway":null
+         },
+         {
+            "year":2017,
+            "cost":null,
+            "use":281.0,
+            "turnaway":12.0
+         },
+         {
+            "year":2015,
+            "cost":null,
+            "use":124.0,
+            "turnaway":null
+         }
+      ],
+      "sjr":{
+         "year":2017,
+         "sjr":0.64
+      },
+      "snip":{
+         "year":2017,
+         "snip":1.542
+      },
+      "citeScore":{
+         "year":2017,
+         "citescore":2.53
+      },
+      "citeScoreTracker":{
+         "year":2018,
+         "citescoreTracker":1.6
+      },
+      "cornellPubCounter":{
+         "map":{
+            "2016":1,
+            "1985":1,
+            "1986":1,
+            "1987":2,
+            "1990":1,
+            "1992":1,
+            "1971":3,
+            "2010":1,
+            "2011":1,
+            "1980":2,
+            "2013":1,
+            "1981":1,
+            "1982":1,
+            "2015":1
+         },
+         "count":18
+      },
+      "costUsagePrintLines":[
+         "\"Journal of Environmental Education\",\"ssj0001897\",\"46138\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0095-8964, type=Authority]]\",\"[EISSN [value=1940-1892, type=Authority]]\",\"10.1080/vjee20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.542]\",\"SJR [year=2017, sjr=0.64]\",\"CiteScore [year=2017, citescore=2.53]\",\"CiteScoreTracker [year=2018, citescoreTracker=1.6]\",\"[ClickCount [year=2017, count=4, noOfRecords=115598], ClickCount [year=2018, count=2, noOfRecords=115599], ClickCount [year=2015, count=11, noOfRecords=115596], ClickCount [year=2016, count=11, noOfRecords=115597]]\",\"CornellPubCounter [map={2016=1, 1985=1, 1986=1, 1987=2, 1990=1, 1992=1, 1971=3, 2010=1, 2011=1, 1980=2, 2013=1, 1981=1, 1982=1, 2015=1}, count=18]\",\"2016\",\"null\",\"378.0\",\"null\",\"921.0\"",
+         "\"Journal of Environmental Education\",\"ssj0001897\",\"46138\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0095-8964, type=Authority]]\",\"[EISSN [value=1940-1892, type=Authority]]\",\"10.1080/vjee20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.542]\",\"SJR [year=2017, sjr=0.64]\",\"CiteScore [year=2017, citescore=2.53]\",\"CiteScoreTracker [year=2018, citescoreTracker=1.6]\",\"[ClickCount [year=2017, count=4, noOfRecords=115598], ClickCount [year=2018, count=2, noOfRecords=115599], ClickCount [year=2015, count=11, noOfRecords=115596], ClickCount [year=2016, count=11, noOfRecords=115597]]\",\"CornellPubCounter [map={2016=1, 1985=1, 1986=1, 1987=2, 1990=1, 1992=1, 1971=3, 2010=1, 2011=1, 1980=2, 2013=1, 1981=1, 1982=1, 2015=1}, count=18]\",\"2018\",\"397.0\",\"138.0\",\"null\",\"921.0\"",
+         "\"Journal of Environmental Education\",\"ssj0001897\",\"46138\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0095-8964, type=Authority]]\",\"[EISSN [value=1940-1892, type=Authority]]\",\"10.1080/vjee20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.542]\",\"SJR [year=2017, sjr=0.64]\",\"CiteScore [year=2017, citescore=2.53]\",\"CiteScoreTracker [year=2018, citescoreTracker=1.6]\",\"[ClickCount [year=2017, count=4, noOfRecords=115598], ClickCount [year=2018, count=2, noOfRecords=115599], ClickCount [year=2015, count=11, noOfRecords=115596], ClickCount [year=2016, count=11, noOfRecords=115597]]\",\"CornellPubCounter [map={2016=1, 1985=1, 1986=1, 1987=2, 1990=1, 1992=1, 1971=3, 2010=1, 2011=1, 1980=2, 2013=1, 1981=1, 1982=1, 2015=1}, count=18]\",\"2019\",\"477.0\",\"null\",\"null\",\"921.0\"",
+         "\"Journal of Environmental Education\",\"ssj0001897\",\"46138\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0095-8964, type=Authority]]\",\"[EISSN [value=1940-1892, type=Authority]]\",\"10.1080/vjee20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.542]\",\"SJR [year=2017, sjr=0.64]\",\"CiteScore [year=2017, citescore=2.53]\",\"CiteScoreTracker [year=2018, citescoreTracker=1.6]\",\"[ClickCount [year=2017, count=4, noOfRecords=115598], ClickCount [year=2018, count=2, noOfRecords=115599], ClickCount [year=2015, count=11, noOfRecords=115596], ClickCount [year=2016, count=11, noOfRecords=115597]]\",\"CornellPubCounter [map={2016=1, 1985=1, 1986=1, 1987=2, 1990=1, 1992=1, 1971=3, 2010=1, 2011=1, 1980=2, 2013=1, 1981=1, 1982=1, 2015=1}, count=18]\",\"2017\",\"null\",\"281.0\",\"12.0\",\"921.0\"",
+         "\"Journal of Environmental Education\",\"ssj0001897\",\"46138\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0095-8964, type=Authority]]\",\"[EISSN [value=1940-1892, type=Authority]]\",\"10.1080/vjee20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.542]\",\"SJR [year=2017, sjr=0.64]\",\"CiteScore [year=2017, citescore=2.53]\",\"CiteScoreTracker [year=2018, citescoreTracker=1.6]\",\"[ClickCount [year=2017, count=4, noOfRecords=115598], ClickCount [year=2018, count=2, noOfRecords=115599], ClickCount [year=2015, count=11, noOfRecords=115596], ClickCount [year=2016, count=11, noOfRecords=115597]]\",\"CornellPubCounter [map={2016=1, 1985=1, 1986=1, 1987=2, 1990=1, 1992=1, 1971=3, 2010=1, 2011=1, 1980=2, 2013=1, 1981=1, 1982=1, 2015=1}, count=18]\",\"2015\",\"null\",\"124.0\",\"null\",\"921.0\""
+      ],
+      "ssid":"ssj0001897"
+   },
+   "Environmental Politics":{
+      "title":"ENVIRONMENTAL POLITICS",
+      "titleId":69192,
+      "provider":{
+         "name":"Taylor & Francis",
+         "code":"PRVAWR"
+      },
+      "database_package":{
+         "name":"Taylor & Francis Online",
+         "code":"TFW"
+      },
+      "status":"Subscribed",
+      "type":"Journal",
+      "issns":[
+         {
+            "value":"0964-4016",
+            "type":"Authority"
+         }
+      ],
+      "eissns":[
+         {
+            "value":"1743-8934",
+            "type":"Authority"
+         }
+      ],
+      "isbn13":null,
+      "accessData":null,
+      "collection":null,
+      "access":"",
+      "licencse":"",
+      "subjects":[
+         " Political Science Theory",
+         "Environmental Sciences"
+      ],
+      "clickData":{
+         "journal":"Environmental politics",
+         "database":"Taylor & Francis Online",
+         "issn":"0964-4016",
+         "clickCount":[
+            {
+               "year":2018,
+               "count":19,
+               "noOfRecords":35579
+            },
+            {
+               "year":2016,
+               "count":72,
+               "noOfRecords":35577
+            },
+            {
+               "year":2017,
+               "count":57,
+               "noOfRecords":35578
+            },
+            {
+               "year":2015,
+               "count":25,
+               "noOfRecords":35576
+            }
+         ]
+      },
+      "publisher":"Routledge",
+      "doi":"10.1080/fenp20",
+      "overallUses":803.0,
+      "costperuse":5.552361396303901,
+      "costUsageData":[
+         {
+            "year":2019,
+            "cost":1352.0,
+            "use":null,
+            "turnaway":null
+         },
+         {
+            "year":2018,
+            "cost":1159.0,
+            "use":208.0,
+            "turnaway":3.0
+         },
+         {
+            "year":2017,
+            "cost":null,
+            "use":279.0,
+            "turnaway":3.0
+         },
+         {
+            "year":2015,
+            "cost":null,
+            "use":82.0,
+            "turnaway":6.0
+         },
+         {
+            "year":2016,
+            "cost":null,
+            "use":234.0,
+            "turnaway":2.0
+         }
+      ],
+      "sjr":{
+         "year":2017,
+         "sjr":1.3
+      },
+      "snip":{
+         "year":2017,
+         "snip":1.388
+      },
+      "citeScore":{
+         "year":2017,
+         "citescore":3.13
+      },
+      "citeScoreTracker":{
+         "year":2018,
+         "citescoreTracker":2.42
+      },
+      "cornellPubCounter":{
+         "map":{
+            "2016":1
+         },
+         "count":1
+      },
+      "costUsagePrintLines":[
+         "\"ENVIRONMENTAL POLITICS\",\"ssj0018292\",\"69192\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0964-4016, type=Authority]]\",\"[EISSN [value=1743-8934, type=Authority]]\",\"10.1080/fenp20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.388]\",\"SJR [year=2017, sjr=1.3]\",\"CiteScore [year=2017, citescore=3.13]\",\"CiteScoreTracker [year=2018, citescoreTracker=2.42]\",\"[ClickCount [year=2018, count=19, noOfRecords=35579], ClickCount [year=2016, count=72, noOfRecords=35577], ClickCount [year=2017, count=57, noOfRecords=35578], ClickCount [year=2015, count=25, noOfRecords=35576]]\",\"CornellPubCounter [map={2016=1}, count=1]\",\"2019\",\"1352.0\",\"null\",\"null\",\"803.0\"",
+         "\"ENVIRONMENTAL POLITICS\",\"ssj0018292\",\"69192\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0964-4016, type=Authority]]\",\"[EISSN [value=1743-8934, type=Authority]]\",\"10.1080/fenp20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.388]\",\"SJR [year=2017, sjr=1.3]\",\"CiteScore [year=2017, citescore=3.13]\",\"CiteScoreTracker [year=2018, citescoreTracker=2.42]\",\"[ClickCount [year=2018, count=19, noOfRecords=35579], ClickCount [year=2016, count=72, noOfRecords=35577], ClickCount [year=2017, count=57, noOfRecords=35578], ClickCount [year=2015, count=25, noOfRecords=35576]]\",\"CornellPubCounter [map={2016=1}, count=1]\",\"2016\",\"null\",\"234.0\",\"2.0\",\"803.0\"",
+         "\"ENVIRONMENTAL POLITICS\",\"ssj0018292\",\"69192\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0964-4016, type=Authority]]\",\"[EISSN [value=1743-8934, type=Authority]]\",\"10.1080/fenp20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.388]\",\"SJR [year=2017, sjr=1.3]\",\"CiteScore [year=2017, citescore=3.13]\",\"CiteScoreTracker [year=2018, citescoreTracker=2.42]\",\"[ClickCount [year=2018, count=19, noOfRecords=35579], ClickCount [year=2016, count=72, noOfRecords=35577], ClickCount [year=2017, count=57, noOfRecords=35578], ClickCount [year=2015, count=25, noOfRecords=35576]]\",\"CornellPubCounter [map={2016=1}, count=1]\",\"2018\",\"1159.0\",\"208.0\",\"3.0\",\"803.0\"",
+         "\"ENVIRONMENTAL POLITICS\",\"ssj0018292\",\"69192\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0964-4016, type=Authority]]\",\"[EISSN [value=1743-8934, type=Authority]]\",\"10.1080/fenp20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.388]\",\"SJR [year=2017, sjr=1.3]\",\"CiteScore [year=2017, citescore=3.13]\",\"CiteScoreTracker [year=2018, citescoreTracker=2.42]\",\"[ClickCount [year=2018, count=19, noOfRecords=35579], ClickCount [year=2016, count=72, noOfRecords=35577], ClickCount [year=2017, count=57, noOfRecords=35578], ClickCount [year=2015, count=25, noOfRecords=35576]]\",\"CornellPubCounter [map={2016=1}, count=1]\",\"2017\",\"null\",\"279.0\",\"3.0\",\"803.0\"",
+         "\"ENVIRONMENTAL POLITICS\",\"ssj0018292\",\"69192\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0964-4016, type=Authority]]\",\"[EISSN [value=1743-8934, type=Authority]]\",\"10.1080/fenp20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.388]\",\"SJR [year=2017, sjr=1.3]\",\"CiteScore [year=2017, citescore=3.13]\",\"CiteScoreTracker [year=2018, citescoreTracker=2.42]\",\"[ClickCount [year=2018, count=19, noOfRecords=35579], ClickCount [year=2016, count=72, noOfRecords=35577], ClickCount [year=2017, count=57, noOfRecords=35578], ClickCount [year=2015, count=25, noOfRecords=35576]]\",\"CornellPubCounter [map={2016=1}, count=1]\",\"2015\",\"null\",\"82.0\",\"6.0\",\"803.0\""
+      ],
+      "ssid":"ssj0018292"
+   },
+   "International Journal of Sociology":{
+      "title":"International journal of sociology",
+      "titleId":9352,
+      "provider":{
+         "name":"Taylor & Francis",
+         "code":"PRVAWR"
+      },
+      "database_package":{
+         "name":"Taylor & Francis Online",
+         "code":"TFW"
+      },
+      "status":"Subscribed",
+      "type":"Journal",
+      "issns":[
+         {
+            "value":"0020-7659",
+            "type":"Authority"
+         }
+      ],
+      "eissns":[
+         {
+            "value":"1557-9336",
+            "type":"Authority"
+         }
+      ],
+      "isbn13":null,
+      "accessData":null,
+      "collection":null,
+      "access":"",
+      "licencse":"",
+      "subjects":[
+         "Social Change"
+      ],
+      "clickData":{
+         "journal":"International journal of sociology",
+         "database":"Taylor & Francis Online",
+         "issn":"0020-7659",
+         "clickCount":[
+            {
+               "year":2017,
+               "count":2,
+               "noOfRecords":54280
+            },
+            {
+               "year":2018,
+               "count":2,
+               "noOfRecords":54281
+            }
+         ]
+      },
+      "publisher":"Routledge",
+      "doi":"10.1080/mijs20",
+      "overallUses":54.0,
+      "costperuse":141.2258064516129,
+      "costUsageData":[
+         {
+            "year":2018,
+            "cost":1599.0,
+            "use":16.0,
+            "turnaway":9.0
+         },
+         {
+            "year":2017,
+            "cost":null,
+            "use":15.0,
+            "turnaway":8.0
+         },
+         {
+            "year":2015,
+            "cost":null,
+            "use":6.0,
+            "turnaway":null
+         },
+         {
+            "year":2019,
+            "cost":2189.0,
+            "use":null,
+            "turnaway":null
+         },
+         {
+            "year":2016,
+            "cost":null,
+            "use":17.0,
+            "turnaway":null
+         }
+      ],
+      "sjr":null,
+      "snip":null,
+      "citeScore":null,
+      "citeScoreTracker":null,
+      "cornellPubCounter":{
+         "map":{
+
+         },
+         "count":0
+      },
+      "costUsagePrintLines":[
+         "\"International journal of sociology\",\"ssj0012055\",\"9352\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0020-7659, type=Authority]]\",\"[EISSN [value=1557-9336, type=Authority]]\",\"10.1080/mijs20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"\",\"\",\"\",\"\",\"[ClickCount [year=2017, count=2, noOfRecords=54280], ClickCount [year=2018, count=2, noOfRecords=54281]]\",\"CornellPubCounter [map={}, count=0]\",\"2018\",\"1599.0\",\"16.0\",\"9.0\",\"54.0\"",
+         "\"International journal of sociology\",\"ssj0012055\",\"9352\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0020-7659, type=Authority]]\",\"[EISSN [value=1557-9336, type=Authority]]\",\"10.1080/mijs20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"\",\"\",\"\",\"\",\"[ClickCount [year=2017, count=2, noOfRecords=54280], ClickCount [year=2018, count=2, noOfRecords=54281]]\",\"CornellPubCounter [map={}, count=0]\",\"2015\",\"null\",\"6.0\",\"null\",\"54.0\"",
+         "\"International journal of sociology\",\"ssj0012055\",\"9352\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0020-7659, type=Authority]]\",\"[EISSN [value=1557-9336, type=Authority]]\",\"10.1080/mijs20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"\",\"\",\"\",\"\",\"[ClickCount [year=2017, count=2, noOfRecords=54280], ClickCount [year=2018, count=2, noOfRecords=54281]]\",\"CornellPubCounter [map={}, count=0]\",\"2016\",\"null\",\"17.0\",\"null\",\"54.0\"",
+         "\"International journal of sociology\",\"ssj0012055\",\"9352\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0020-7659, type=Authority]]\",\"[EISSN [value=1557-9336, type=Authority]]\",\"10.1080/mijs20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"\",\"\",\"\",\"\",\"[ClickCount [year=2017, count=2, noOfRecords=54280], ClickCount [year=2018, count=2, noOfRecords=54281]]\",\"CornellPubCounter [map={}, count=0]\",\"2019\",\"2189.0\",\"null\",\"null\",\"54.0\"",
+         "\"International journal of sociology\",\"ssj0012055\",\"9352\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0020-7659, type=Authority]]\",\"[EISSN [value=1557-9336, type=Authority]]\",\"10.1080/mijs20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"\",\"\",\"\",\"\",\"[ClickCount [year=2017, count=2, noOfRecords=54280], ClickCount [year=2018, count=2, noOfRecords=54281]]\",\"CornellPubCounter [map={}, count=0]\",\"2017\",\"null\",\"15.0\",\"8.0\",\"54.0\""
+      ],
+      "ssid":"ssj0012055"
+   },
+   "Cognition and Instruction":{
+      "title":"COGNITION AND INSTRUCTION",
+      "titleId":13739,
+      "provider":{
+         "name":"Taylor & Francis",
+         "code":"PRVAWR"
+      },
+      "database_package":{
+         "name":"Taylor & Francis Online",
+         "code":"TFW"
+      },
+      "status":"Subscribed",
+      "type":"Journal",
+      "issns":[
+         {
+            "value":"0737-0008",
+            "type":"Authority"
+         }
+      ],
+      "eissns":[
+         {
+            "value":"1532-690X",
+            "type":"Authority"
+         }
+      ],
+      "isbn13":null,
+      "accessData":null,
+      "collection":null,
+      "access":"",
+      "licencse":"",
+      "subjects":[
+         "Psychology",
+         " Theory & Practice of Education"
+      ],
+      "clickData":{
+         "journal":"Cognition and instruction",
+         "database":"Taylor & Francis Online",
+         "issn":"0737-0008",
+         "clickCount":[
+            {
+               "year":2018,
+               "count":1,
+               "noOfRecords":24208
+            },
+            {
+               "year":2016,
+               "count":1,
+               "noOfRecords":24207
+            },
+            {
+               "year":2015,
+               "count":7,
+               "noOfRecords":24206
+            }
+         ]
+      },
+      "publisher":"Routledge",
+      "doi":"10.1080/hcgi20",
+      "overallUses":101.0,
+      "costperuse":30.88235294117647,
+      "costUsageData":[
+         {
+            "year":2019,
+            "cost":1050.0,
+            "use":null,
+            "turnaway":null
+         },
+         {
+            "year":2015,
+            "cost":null,
+            "use":15.0,
+            "turnaway":1.0
+         },
+         {
+            "year":2016,
+            "cost":null,
+            "use":18.0,
+            "turnaway":2.0
+         },
+         {
+            "year":2017,
+            "cost":null,
+            "use":31.0,
+            "turnaway":1.0
+         },
+         {
+            "year":2018,
+            "cost":905.0,
+            "use":37.0,
+            "turnaway":1.0
+         }
+      ],
+      "sjr":{
+         "year":2017,
+         "sjr":1.143
+      },
+      "snip":{
+         "year":2017,
+         "snip":1.415
+      },
+      "citeScore":{
+         "year":2017,
+         "citescore":2.53
+      },
+      "citeScoreTracker":{
+         "year":2018,
+         "citescoreTracker":1.94
+      },
+      "cornellPubCounter":{
+         "map":{
+
+         },
+         "count":0
+      },
+      "costUsagePrintLines":[
+         "\"COGNITION AND INSTRUCTION\",\"ssj0002517\",\"13739\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0737-0008, type=Authority]]\",\"[EISSN [value=1532-690X, type=Authority]]\",\"10.1080/hcgi20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.415]\",\"SJR [year=2017, sjr=1.143]\",\"CiteScore [year=2017, citescore=2.53]\",\"CiteScoreTracker [year=2018, citescoreTracker=1.94]\",\"[ClickCount [year=2018, count=1, noOfRecords=24208], ClickCount [year=2016, count=1, noOfRecords=24207], ClickCount [year=2015, count=7, noOfRecords=24206]]\",\"CornellPubCounter [map={}, count=0]\",\"2019\",\"1050.0\",\"null\",\"null\",\"101.0\"",
+         "\"COGNITION AND INSTRUCTION\",\"ssj0002517\",\"13739\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0737-0008, type=Authority]]\",\"[EISSN [value=1532-690X, type=Authority]]\",\"10.1080/hcgi20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.415]\",\"SJR [year=2017, sjr=1.143]\",\"CiteScore [year=2017, citescore=2.53]\",\"CiteScoreTracker [year=2018, citescoreTracker=1.94]\",\"[ClickCount [year=2018, count=1, noOfRecords=24208], ClickCount [year=2016, count=1, noOfRecords=24207], ClickCount [year=2015, count=7, noOfRecords=24206]]\",\"CornellPubCounter [map={}, count=0]\",\"2016\",\"null\",\"18.0\",\"2.0\",\"101.0\"",
+         "\"COGNITION AND INSTRUCTION\",\"ssj0002517\",\"13739\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0737-0008, type=Authority]]\",\"[EISSN [value=1532-690X, type=Authority]]\",\"10.1080/hcgi20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.415]\",\"SJR [year=2017, sjr=1.143]\",\"CiteScore [year=2017, citescore=2.53]\",\"CiteScoreTracker [year=2018, citescoreTracker=1.94]\",\"[ClickCount [year=2018, count=1, noOfRecords=24208], ClickCount [year=2016, count=1, noOfRecords=24207], ClickCount [year=2015, count=7, noOfRecords=24206]]\",\"CornellPubCounter [map={}, count=0]\",\"2018\",\"905.0\",\"37.0\",\"1.0\",\"101.0\"",
+         "\"COGNITION AND INSTRUCTION\",\"ssj0002517\",\"13739\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0737-0008, type=Authority]]\",\"[EISSN [value=1532-690X, type=Authority]]\",\"10.1080/hcgi20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.415]\",\"SJR [year=2017, sjr=1.143]\",\"CiteScore [year=2017, citescore=2.53]\",\"CiteScoreTracker [year=2018, citescoreTracker=1.94]\",\"[ClickCount [year=2018, count=1, noOfRecords=24208], ClickCount [year=2016, count=1, noOfRecords=24207], ClickCount [year=2015, count=7, noOfRecords=24206]]\",\"CornellPubCounter [map={}, count=0]\",\"2015\",\"null\",\"15.0\",\"1.0\",\"101.0\"",
+         "\"COGNITION AND INSTRUCTION\",\"ssj0002517\",\"13739\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0737-0008, type=Authority]]\",\"[EISSN [value=1532-690X, type=Authority]]\",\"10.1080/hcgi20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.415]\",\"SJR [year=2017, sjr=1.143]\",\"CiteScore [year=2017, citescore=2.53]\",\"CiteScoreTracker [year=2018, citescoreTracker=1.94]\",\"[ClickCount [year=2018, count=1, noOfRecords=24208], ClickCount [year=2016, count=1, noOfRecords=24207], ClickCount [year=2015, count=7, noOfRecords=24206]]\",\"CornellPubCounter [map={}, count=0]\",\"2017\",\"null\",\"31.0\",\"1.0\",\"101.0\""
+      ],
+      "ssid":"ssj0002517"
+   },
+   "Journal of Hunger and Environmental Nutrition":{
+      "title":"Journal of hunger & environmental nutrition",
+      "titleId":972750,
+      "provider":{
+         "name":"Taylor & Francis",
+         "code":"PRVAWR"
+      },
+      "database_package":{
+         "name":"Taylor & Francis Online",
+         "code":"TFW"
+      },
+      "status":"Subscribed",
+      "type":"Journal",
+      "issns":[
+         {
+            "value":"1932-0248",
+            "type":"Authority"
+         }
+      ],
+      "eissns":[
+         {
+            "value":"1932-0256",
+            "type":"Authority"
+         }
+      ],
+      "isbn13":null,
+      "accessData":null,
+      "collection":null,
+      "access":"",
+      "licencse":"",
+      "subjects":[
+         "Diet & Clinical Nutrition"
+      ],
+      "clickData":{
+         "journal":"Journal of hunger & environmental nutrition",
+         "database":"Taylor & Francis Online",
+         "issn":"1932-0248",
+         "clickCount":[
+            {
+               "year":2016,
+               "count":15,
+               "noOfRecords":65507
+            },
+            {
+               "year":2017,
+               "count":23,
+               "noOfRecords":65508
+            },
+            {
+               "year":2015,
+               "count":6,
+               "noOfRecords":65506
+            },
+            {
+               "year":2018,
+               "count":4,
+               "noOfRecords":65509
+            }
+         ]
+      },
+      "publisher":"Taylor & Francis",
+      "doi":"10.1080/when20",
+      "overallUses":728.0,
+      "costperuse":2.25,
+      "costUsageData":[
+         {
+            "year":2018,
+            "cost":389.0,
+            "use":145.0,
+            "turnaway":null
+         },
+         {
+            "year":2015,
+            "cost":null,
+            "use":73.0,
+            "turnaway":null
+         },
+         {
+            "year":2019,
+            "cost":486.0,
+            "use":null,
+            "turnaway":null
+         },
+         {
+            "year":2017,
+            "cost":null,
+            "use":287.0,
+            "turnaway":null
+         },
+         {
+            "year":2016,
+            "cost":null,
+            "use":223.0,
+            "turnaway":null
+         }
+      ],
+      "sjr":{
+         "year":2017,
+         "sjr":0.29
+      },
+      "snip":{
+         "year":2017,
+         "snip":0.491
+      },
+      "citeScore":{
+         "year":2017,
+         "citescore":0.57
+      },
+      "citeScoreTracker":{
+         "year":2018,
+         "citescoreTracker":0.5
+      },
+      "cornellPubCounter":{
+         "map":{
+            "2017":1,
+            "2018":2,
+            "2006":1,
+            "2008":4,
+            "2010":1,
+            "2011":2,
+            "2012":1,
+            "2013":5,
+            "2014":1,
+            "2015":1
+         },
+         "count":19
+      },
+      "costUsagePrintLines":[
+         "\"Journal of hunger & environmental nutrition\",\"ssj0048236\",\"972750\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1932-0248, type=Authority]]\",\"[EISSN [value=1932-0256, type=Authority]]\",\"10.1080/when20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.491]\",\"SJR [year=2017, sjr=0.29]\",\"CiteScore [year=2017, citescore=0.57]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.5]\",\"[ClickCount [year=2016, count=15, noOfRecords=65507], ClickCount [year=2017, count=23, noOfRecords=65508], ClickCount [year=2015, count=6, noOfRecords=65506], ClickCount [year=2018, count=4, noOfRecords=65509]]\",\"CornellPubCounter [map={2017=1, 2018=2, 2006=1, 2008=4, 2010=1, 2011=2, 2012=1, 2013=5, 2014=1, 2015=1}, count=19]\",\"2018\",\"389.0\",\"145.0\",\"null\",\"728.0\"",
+         "\"Journal of hunger & environmental nutrition\",\"ssj0048236\",\"972750\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1932-0248, type=Authority]]\",\"[EISSN [value=1932-0256, type=Authority]]\",\"10.1080/when20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.491]\",\"SJR [year=2017, sjr=0.29]\",\"CiteScore [year=2017, citescore=0.57]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.5]\",\"[ClickCount [year=2016, count=15, noOfRecords=65507], ClickCount [year=2017, count=23, noOfRecords=65508], ClickCount [year=2015, count=6, noOfRecords=65506], ClickCount [year=2018, count=4, noOfRecords=65509]]\",\"CornellPubCounter [map={2017=1, 2018=2, 2006=1, 2008=4, 2010=1, 2011=2, 2012=1, 2013=5, 2014=1, 2015=1}, count=19]\",\"2016\",\"null\",\"223.0\",\"null\",\"728.0\"",
+         "\"Journal of hunger & environmental nutrition\",\"ssj0048236\",\"972750\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1932-0248, type=Authority]]\",\"[EISSN [value=1932-0256, type=Authority]]\",\"10.1080/when20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.491]\",\"SJR [year=2017, sjr=0.29]\",\"CiteScore [year=2017, citescore=0.57]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.5]\",\"[ClickCount [year=2016, count=15, noOfRecords=65507], ClickCount [year=2017, count=23, noOfRecords=65508], ClickCount [year=2015, count=6, noOfRecords=65506], ClickCount [year=2018, count=4, noOfRecords=65509]]\",\"CornellPubCounter [map={2017=1, 2018=2, 2006=1, 2008=4, 2010=1, 2011=2, 2012=1, 2013=5, 2014=1, 2015=1}, count=19]\",\"2019\",\"486.0\",\"null\",\"null\",\"728.0\"",
+         "\"Journal of hunger & environmental nutrition\",\"ssj0048236\",\"972750\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1932-0248, type=Authority]]\",\"[EISSN [value=1932-0256, type=Authority]]\",\"10.1080/when20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.491]\",\"SJR [year=2017, sjr=0.29]\",\"CiteScore [year=2017, citescore=0.57]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.5]\",\"[ClickCount [year=2016, count=15, noOfRecords=65507], ClickCount [year=2017, count=23, noOfRecords=65508], ClickCount [year=2015, count=6, noOfRecords=65506], ClickCount [year=2018, count=4, noOfRecords=65509]]\",\"CornellPubCounter [map={2017=1, 2018=2, 2006=1, 2008=4, 2010=1, 2011=2, 2012=1, 2013=5, 2014=1, 2015=1}, count=19]\",\"2017\",\"null\",\"287.0\",\"null\",\"728.0\"",
+         "\"Journal of hunger & environmental nutrition\",\"ssj0048236\",\"972750\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1932-0248, type=Authority]]\",\"[EISSN [value=1932-0256, type=Authority]]\",\"10.1080/when20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.491]\",\"SJR [year=2017, sjr=0.29]\",\"CiteScore [year=2017, citescore=0.57]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.5]\",\"[ClickCount [year=2016, count=15, noOfRecords=65507], ClickCount [year=2017, count=23, noOfRecords=65508], ClickCount [year=2015, count=6, noOfRecords=65506], ClickCount [year=2018, count=4, noOfRecords=65509]]\",\"CornellPubCounter [map={2017=1, 2018=2, 2006=1, 2008=4, 2010=1, 2011=2, 2012=1, 2013=5, 2014=1, 2015=1}, count=19]\",\"2015\",\"null\",\"73.0\",\"null\",\"728.0\""
+      ],
+      "ssid":"ssj0048236"
+   },
+   "Econometric Reviews":{
+      "title":"Econometric Reviews",
+      "titleId":39809,
+      "provider":{
+         "name":"Taylor & Francis",
+         "code":"PRVAWR"
+      },
+      "database_package":{
+         "name":"Taylor & Francis Online",
+         "code":"TFW"
+      },
+      "status":"Subscribed",
+      "type":"Journal",
+      "issns":[
+         {
+            "value":"0747-4938",
+            "type":"Authority"
+         }
+      ],
+      "eissns":[
+         {
+            "value":"1532-4168",
+            "type":"Authority"
+         }
+      ],
+      "isbn13":null,
+      "accessData":null,
+      "collection":null,
+      "access":"",
+      "licencse":"",
+      "subjects":[
+         "Economic Theory"
+      ],
+      "clickData":{
+         "journal":"Econometric reviews",
+         "database":"Taylor & Francis Online",
+         "issn":"0747-4938",
+         "clickCount":[
+            {
+               "year":2015,
+               "count":1,
+               "noOfRecords":32982
+            },
+            {
+               "year":2016,
+               "count":1,
+               "noOfRecords":32983
+            },
+            {
+               "year":2017,
+               "count":1,
+               "noOfRecords":32984
+            }
+         ]
+      },
+      "publisher":"Taylor & Francis",
+      "doi":"10.1080/lecr20",
+      "overallUses":147.0,
+      "costperuse":78.5,
+      "costUsageData":[
+         {
+            "year":2019,
+            "cost":3297.0,
+            "use":null,
+            "turnaway":null
+         },
+         {
+            "year":2017,
+            "cost":null,
+            "use":58.0,
+            "turnaway":5.0
+         },
+         {
+            "year":2018,
+            "cost":2867.0,
+            "use":26.0,
+            "turnaway":null
+         },
+         {
+            "year":2015,
+            "cost":null,
+            "use":22.0,
+            "turnaway":3.0
+         },
+         {
+            "year":2016,
+            "cost":null,
+            "use":41.0,
+            "turnaway":8.0
+         }
+      ],
+      "sjr":{
+         "year":2017,
+         "sjr":1.797
+      },
+      "snip":{
+         "year":2017,
+         "snip":1.243
+      },
+      "citeScore":{
+         "year":2017,
+         "citescore":1.09
+      },
+      "citeScoreTracker":{
+         "year":2018,
+         "citescoreTracker":0.9
+      },
+      "cornellPubCounter":{
+         "map":{
+            "2017":3,
+            "1985":2,
+            "1986":1,
+            "2012":1,
+            "2005":1
+         },
+         "count":8
+      },
+      "costUsagePrintLines":[
+         "\"Econometric Reviews\",\"ssj0008623\",\"39809\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0747-4938, type=Authority]]\",\"[EISSN [value=1532-4168, type=Authority]]\",\"10.1080/lecr20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.243]\",\"SJR [year=2017, sjr=1.797]\",\"CiteScore [year=2017, citescore=1.09]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.9]\",\"[ClickCount [year=2015, count=1, noOfRecords=32982], ClickCount [year=2016, count=1, noOfRecords=32983], ClickCount [year=2017, count=1, noOfRecords=32984]]\",\"CornellPubCounter [map={2017=3, 1985=2, 1986=1, 2012=1, 2005=1}, count=8]\",\"2015\",\"null\",\"22.0\",\"3.0\",\"147.0\"",
+         "\"Econometric Reviews\",\"ssj0008623\",\"39809\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0747-4938, type=Authority]]\",\"[EISSN [value=1532-4168, type=Authority]]\",\"10.1080/lecr20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.243]\",\"SJR [year=2017, sjr=1.797]\",\"CiteScore [year=2017, citescore=1.09]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.9]\",\"[ClickCount [year=2015, count=1, noOfRecords=32982], ClickCount [year=2016, count=1, noOfRecords=32983], ClickCount [year=2017, count=1, noOfRecords=32984]]\",\"CornellPubCounter [map={2017=3, 1985=2, 1986=1, 2012=1, 2005=1}, count=8]\",\"2017\",\"null\",\"58.0\",\"5.0\",\"147.0\"",
+         "\"Econometric Reviews\",\"ssj0008623\",\"39809\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0747-4938, type=Authority]]\",\"[EISSN [value=1532-4168, type=Authority]]\",\"10.1080/lecr20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.243]\",\"SJR [year=2017, sjr=1.797]\",\"CiteScore [year=2017, citescore=1.09]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.9]\",\"[ClickCount [year=2015, count=1, noOfRecords=32982], ClickCount [year=2016, count=1, noOfRecords=32983], ClickCount [year=2017, count=1, noOfRecords=32984]]\",\"CornellPubCounter [map={2017=3, 1985=2, 1986=1, 2012=1, 2005=1}, count=8]\",\"2018\",\"2867.0\",\"26.0\",\"null\",\"147.0\"",
+         "\"Econometric Reviews\",\"ssj0008623\",\"39809\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0747-4938, type=Authority]]\",\"[EISSN [value=1532-4168, type=Authority]]\",\"10.1080/lecr20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.243]\",\"SJR [year=2017, sjr=1.797]\",\"CiteScore [year=2017, citescore=1.09]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.9]\",\"[ClickCount [year=2015, count=1, noOfRecords=32982], ClickCount [year=2016, count=1, noOfRecords=32983], ClickCount [year=2017, count=1, noOfRecords=32984]]\",\"CornellPubCounter [map={2017=3, 1985=2, 1986=1, 2012=1, 2005=1}, count=8]\",\"2019\",\"3297.0\",\"null\",\"null\",\"147.0\"",
+         "\"Econometric Reviews\",\"ssj0008623\",\"39809\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=0747-4938, type=Authority]]\",\"[EISSN [value=1532-4168, type=Authority]]\",\"10.1080/lecr20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.243]\",\"SJR [year=2017, sjr=1.797]\",\"CiteScore [year=2017, citescore=1.09]\",\"CiteScoreTracker [year=2018, citescoreTracker=0.9]\",\"[ClickCount [year=2015, count=1, noOfRecords=32982], ClickCount [year=2016, count=1, noOfRecords=32983], ClickCount [year=2017, count=1, noOfRecords=32984]]\",\"CornellPubCounter [map={2017=3, 1985=2, 1986=1, 2012=1, 2005=1}, count=8]\",\"2016\",\"null\",\"41.0\",\"8.0\",\"147.0\""
+      ],
+      "ssid":"ssj0008623"
+   },
+   "Epigenetics":{
+      "title":"Epigenetics",
+      "titleId":817601,
+      "provider":{
+         "name":"Taylor & Francis",
+         "code":"PRVAWR"
+      },
+      "database_package":{
+         "name":"Taylor & Francis Online",
+         "code":"TFW"
+      },
+      "status":"Subscribed",
+      "type":"Journal",
+      "issns":[
+         {
+            "value":"1559-2294",
+            "type":"Authority"
+         }
+      ],
+      "eissns":[
+         {
+            "value":"1559-2308",
+            "type":"Authority"
+         }
+      ],
+      "isbn13":null,
+      "accessData":null,
+      "collection":null,
+      "access":"",
+      "licencse":"",
+      "subjects":[
+         "Animal Anatomy & Embryology"
+      ],
+      "clickData":{
+         "journal":"Epigenetics",
+         "database":"Taylor & Francis Online",
+         "issn":"1559-2294",
+         "clickCount":[
+            {
+               "year":2018,
+               "count":1,
+               "noOfRecords":35837
+            },
+            {
+               "year":2015,
+               "count":16,
+               "noOfRecords":35834
+            },
+            {
+               "year":2016,
+               "count":16,
+               "noOfRecords":35835
+            },
+            {
+               "year":2017,
+               "count":10,
+               "noOfRecords":35836
+            }
+         ]
+      },
+      "publisher":"Taylor & Francis",
+      "doi":"10.1080/kepi20",
+      "overallUses":1183.0,
+      "costperuse":7.0495049504950495,
+      "costUsageData":[
+         {
+            "year":2015,
+            "cost":null,
+            "use":191.0,
+            "turnaway":null
+         },
+         {
+            "year":2018,
+            "cost":1709.0,
+            "use":180.0,
+            "turnaway":null
+         },
+         {
+            "year":2017,
+            "cost":null,
+            "use":426.0,
+            "turnaway":2.0
+         },
+         {
+            "year":2016,
+            "cost":null,
+            "use":386.0,
+            "turnaway":null
+         },
+         {
+            "year":2019,
+            "cost":2136.0,
+            "use":null,
+            "turnaway":null
+         }
+      ],
+      "sjr":{
+         "year":2017,
+         "sjr":2.278
+      },
+      "snip":{
+         "year":2017,
+         "snip":0.983
+      },
+      "citeScore":{
+         "year":2017,
+         "citescore":5.04
+      },
+      "citeScoreTracker":{
+         "year":2018,
+         "citescoreTracker":3.18
+      },
+      "cornellPubCounter":{
+         "map":{
+            "2016":1,
+            "2013":1,
+            "2014":1
+         },
+         "count":3
+      },
+      "costUsagePrintLines":[
+         "\"Epigenetics\",\"ssj0043699\",\"817601\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1559-2294, type=Authority]]\",\"[EISSN [value=1559-2308, type=Authority]]\",\"10.1080/kepi20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.983]\",\"SJR [year=2017, sjr=2.278]\",\"CiteScore [year=2017, citescore=5.04]\",\"CiteScoreTracker [year=2018, citescoreTracker=3.18]\",\"[ClickCount [year=2018, count=1, noOfRecords=35837], ClickCount [year=2015, count=16, noOfRecords=35834], ClickCount [year=2016, count=16, noOfRecords=35835], ClickCount [year=2017, count=10, noOfRecords=35836]]\",\"CornellPubCounter [map={2016=1, 2013=1, 2014=1}, count=3]\",\"2015\",\"null\",\"191.0\",\"null\",\"1183.0\"",
+         "\"Epigenetics\",\"ssj0043699\",\"817601\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1559-2294, type=Authority]]\",\"[EISSN [value=1559-2308, type=Authority]]\",\"10.1080/kepi20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.983]\",\"SJR [year=2017, sjr=2.278]\",\"CiteScore [year=2017, citescore=5.04]\",\"CiteScoreTracker [year=2018, citescoreTracker=3.18]\",\"[ClickCount [year=2018, count=1, noOfRecords=35837], ClickCount [year=2015, count=16, noOfRecords=35834], ClickCount [year=2016, count=16, noOfRecords=35835], ClickCount [year=2017, count=10, noOfRecords=35836]]\",\"CornellPubCounter [map={2016=1, 2013=1, 2014=1}, count=3]\",\"2016\",\"null\",\"386.0\",\"null\",\"1183.0\"",
+         "\"Epigenetics\",\"ssj0043699\",\"817601\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1559-2294, type=Authority]]\",\"[EISSN [value=1559-2308, type=Authority]]\",\"10.1080/kepi20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.983]\",\"SJR [year=2017, sjr=2.278]\",\"CiteScore [year=2017, citescore=5.04]\",\"CiteScoreTracker [year=2018, citescoreTracker=3.18]\",\"[ClickCount [year=2018, count=1, noOfRecords=35837], ClickCount [year=2015, count=16, noOfRecords=35834], ClickCount [year=2016, count=16, noOfRecords=35835], ClickCount [year=2017, count=10, noOfRecords=35836]]\",\"CornellPubCounter [map={2016=1, 2013=1, 2014=1}, count=3]\",\"2017\",\"null\",\"426.0\",\"2.0\",\"1183.0\"",
+         "\"Epigenetics\",\"ssj0043699\",\"817601\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1559-2294, type=Authority]]\",\"[EISSN [value=1559-2308, type=Authority]]\",\"10.1080/kepi20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.983]\",\"SJR [year=2017, sjr=2.278]\",\"CiteScore [year=2017, citescore=5.04]\",\"CiteScoreTracker [year=2018, citescoreTracker=3.18]\",\"[ClickCount [year=2018, count=1, noOfRecords=35837], ClickCount [year=2015, count=16, noOfRecords=35834], ClickCount [year=2016, count=16, noOfRecords=35835], ClickCount [year=2017, count=10, noOfRecords=35836]]\",\"CornellPubCounter [map={2016=1, 2013=1, 2014=1}, count=3]\",\"2019\",\"2136.0\",\"null\",\"null\",\"1183.0\"",
+         "\"Epigenetics\",\"ssj0043699\",\"817601\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1559-2294, type=Authority]]\",\"[EISSN [value=1559-2308, type=Authority]]\",\"10.1080/kepi20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=0.983]\",\"SJR [year=2017, sjr=2.278]\",\"CiteScore [year=2017, citescore=5.04]\",\"CiteScoreTracker [year=2018, citescoreTracker=3.18]\",\"[ClickCount [year=2018, count=1, noOfRecords=35837], ClickCount [year=2015, count=16, noOfRecords=35834], ClickCount [year=2016, count=16, noOfRecords=35835], ClickCount [year=2017, count=10, noOfRecords=35836]]\",\"CornellPubCounter [map={2016=1, 2013=1, 2014=1}, count=3]\",\"2018\",\"1709.0\",\"180.0\",\"null\",\"1183.0\""
+      ],
+      "ssid":"ssj0043699"
+   },
+   "Critical Reviews in Food Science and Nutrition":{
+      "title":"Critical Reviews in Food Science and Nutrition",
+      "titleId":10455,
+      "provider":{
+         "name":"Taylor & Francis",
+         "code":"PRVAWR"
+      },
+      "database_package":{
+         "name":"Taylor & Francis Online",
+         "code":"TFW"
+      },
+      "status":"Subscribed",
+      "type":"Journal",
+      "issns":[
+         {
+            "value":"1040-8398",
+            "type":"Authority"
+         }
+      ],
+      "eissns":[
+         {
+            "value":"1549-7852",
+            "type":"Authority"
+         }
+      ],
+      "isbn13":null,
+      "accessData":null,
+      "collection":null,
+      "access":"",
+      "licencse":"",
+      "subjects":[
+         "Industries",
+         " Diet & Clinical Nutrition",
+         " Chemical Engineering"
+      ],
+      "clickData":{
+         "journal":"Critical reviews in food science and nutrition",
+         "database":"Taylor & Francis Online",
+         "issn":"1040-8398",
+         "clickCount":[
+            {
+               "year":2015,
+               "count":64,
+               "noOfRecords":27647
+            },
+            {
+               "year":2017,
+               "count":159,
+               "noOfRecords":27649
+            },
+            {
+               "year":2018,
+               "count":60,
+               "noOfRecords":27650
+            },
+            {
+               "year":2016,
+               "count":148,
+               "noOfRecords":27648
+            }
+         ]
+      },
+      "publisher":"Taylor & Francis",
+      "doi":"10.1080/bfsn20",
+      "overallUses":4257.0,
+      "costperuse":5.5661764705882355,
+      "costUsageData":[
+         {
+            "year":2015,
+            "cost":null,
+            "use":490.0,
+            "turnaway":null
+         },
+         {
+            "year":2019,
+            "cost":6813.0,
+            "use":null,
+            "turnaway":null
+         },
+         {
+            "year":2017,
+            "cost":null,
+            "use":1764.0,
+            "turnaway":2.0
+         },
+         {
+            "year":2016,
+            "cost":null,
+            "use":1319.0,
+            "turnaway":1.0
+         },
+         {
+            "year":2018,
+            "cost":5575.0,
+            "use":684.0,
+            "turnaway":2.0
+         }
+      ],
+      "sjr":{
+         "year":2017,
+         "sjr":1.596
+      },
+      "snip":{
+         "year":2017,
+         "snip":1.998
+      },
+      "citeScore":{
+         "year":2017,
+         "citescore":5.15
+      },
+      "citeScoreTracker":{
+         "year":2018,
+         "citescoreTracker":4.37
+      },
+      "cornellPubCounter":{
+         "map":{
+            "2016":2,
+            "2017":3,
+            "2018":2,
+            "1989":1,
+            "1991":2,
+            "1992":2,
+            "1999":1,
+            "2004":3,
+            "2008":1,
+            "2009":2,
+            "2010":1,
+            "2014":1,
+            "2015":2
+         },
+         "count":23
+      },
+      "costUsagePrintLines":[
+         "\"Critical Reviews in Food Science and Nutrition\",\"ssj0004416\",\"10455\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1040-8398, type=Authority]]\",\"[EISSN [value=1549-7852, type=Authority]]\",\"10.1080/bfsn20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.998]\",\"SJR [year=2017, sjr=1.596]\",\"CiteScore [year=2017, citescore=5.15]\",\"CiteScoreTracker [year=2018, citescoreTracker=4.37]\",\"[ClickCount [year=2015, count=64, noOfRecords=27647], ClickCount [year=2017, count=159, noOfRecords=27649], ClickCount [year=2018, count=60, noOfRecords=27650], ClickCount [year=2016, count=148, noOfRecords=27648]]\",\"CornellPubCounter [map={2016=2, 2017=3, 2018=2, 1989=1, 1991=2, 1992=2, 1999=1, 2004=3, 2008=1, 2009=2, 2010=1, 2014=1, 2015=2}, count=23]\",\"2017\",\"null\",\"1764.0\",\"2.0\",\"4257.0\"",
+         "\"Critical Reviews in Food Science and Nutrition\",\"ssj0004416\",\"10455\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1040-8398, type=Authority]]\",\"[EISSN [value=1549-7852, type=Authority]]\",\"10.1080/bfsn20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.998]\",\"SJR [year=2017, sjr=1.596]\",\"CiteScore [year=2017, citescore=5.15]\",\"CiteScoreTracker [year=2018, citescoreTracker=4.37]\",\"[ClickCount [year=2015, count=64, noOfRecords=27647], ClickCount [year=2017, count=159, noOfRecords=27649], ClickCount [year=2018, count=60, noOfRecords=27650], ClickCount [year=2016, count=148, noOfRecords=27648]]\",\"CornellPubCounter [map={2016=2, 2017=3, 2018=2, 1989=1, 1991=2, 1992=2, 1999=1, 2004=3, 2008=1, 2009=2, 2010=1, 2014=1, 2015=2}, count=23]\",\"2016\",\"null\",\"1319.0\",\"1.0\",\"4257.0\"",
+         "\"Critical Reviews in Food Science and Nutrition\",\"ssj0004416\",\"10455\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1040-8398, type=Authority]]\",\"[EISSN [value=1549-7852, type=Authority]]\",\"10.1080/bfsn20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.998]\",\"SJR [year=2017, sjr=1.596]\",\"CiteScore [year=2017, citescore=5.15]\",\"CiteScoreTracker [year=2018, citescoreTracker=4.37]\",\"[ClickCount [year=2015, count=64, noOfRecords=27647], ClickCount [year=2017, count=159, noOfRecords=27649], ClickCount [year=2018, count=60, noOfRecords=27650], ClickCount [year=2016, count=148, noOfRecords=27648]]\",\"CornellPubCounter [map={2016=2, 2017=3, 2018=2, 1989=1, 1991=2, 1992=2, 1999=1, 2004=3, 2008=1, 2009=2, 2010=1, 2014=1, 2015=2}, count=23]\",\"2018\",\"5575.0\",\"684.0\",\"2.0\",\"4257.0\"",
+         "\"Critical Reviews in Food Science and Nutrition\",\"ssj0004416\",\"10455\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1040-8398, type=Authority]]\",\"[EISSN [value=1549-7852, type=Authority]]\",\"10.1080/bfsn20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.998]\",\"SJR [year=2017, sjr=1.596]\",\"CiteScore [year=2017, citescore=5.15]\",\"CiteScoreTracker [year=2018, citescoreTracker=4.37]\",\"[ClickCount [year=2015, count=64, noOfRecords=27647], ClickCount [year=2017, count=159, noOfRecords=27649], ClickCount [year=2018, count=60, noOfRecords=27650], ClickCount [year=2016, count=148, noOfRecords=27648]]\",\"CornellPubCounter [map={2016=2, 2017=3, 2018=2, 1989=1, 1991=2, 1992=2, 1999=1, 2004=3, 2008=1, 2009=2, 2010=1, 2014=1, 2015=2}, count=23]\",\"2019\",\"6813.0\",\"null\",\"null\",\"4257.0\"",
+         "\"Critical Reviews in Food Science and Nutrition\",\"ssj0004416\",\"10455\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1040-8398, type=Authority]]\",\"[EISSN [value=1549-7852, type=Authority]]\",\"10.1080/bfsn20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.998]\",\"SJR [year=2017, sjr=1.596]\",\"CiteScore [year=2017, citescore=5.15]\",\"CiteScoreTracker [year=2018, citescoreTracker=4.37]\",\"[ClickCount [year=2015, count=64, noOfRecords=27647], ClickCount [year=2017, count=159, noOfRecords=27649], ClickCount [year=2018, count=60, noOfRecords=27650], ClickCount [year=2016, count=148, noOfRecords=27648]]\",\"CornellPubCounter [map={2016=2, 2017=3, 2018=2, 1989=1, 1991=2, 1992=2, 1999=1, 2004=3, 2008=1, 2009=2, 2010=1, 2014=1, 2015=2}, count=23]\",\"2015\",\"null\",\"490.0\",\"null\",\"4257.0\""
+      ],
+      "ssid":"ssj0004416"
+   },
+   "GM Crops":{
+      "title":"GM Crops",
+      "titleId":3093462,
+      "provider":{
+         "name":"Taylor & Francis",
+         "code":"PRVAWR"
+      },
+      "database_package":{
+         "name":"Taylor & Francis Online",
+         "code":"TFW"
+      },
+      "status":"Subscribed",
+      "type":"Journal",
+      "issns":[
+         {
+            "value":"1938-1999",
+            "type":"Authority"
+         }
+      ],
+      "eissns":[
+         {
+            "value":"1938-2006",
+            "type":"Authority"
+         }
+      ],
+      "isbn13":null,
+      "accessData":null,
+      "collection":null,
+      "access":"",
+      "licencse":"",
+      "subjects":[
+         "Plant Sciences"
+      ],
+      "clickData":{
+         "journal":"GM crops (Austin, TX)",
+         "database":"Taylor & Francis Online",
+         "issn":"1938-1999",
+         "clickCount":[
+            {
+               "year":2015,
+               "count":2,
+               "noOfRecords":41808
+            },
+            {
+               "year":2018,
+               "count":1,
+               "noOfRecords":41810
+            },
+            {
+               "year":2016,
+               "count":1,
+               "noOfRecords":41809
+            }
+         ]
+      },
+      "publisher":null,
+      "doi":null,
+      "overallUses":0.0,
+      "costperuse":null,
+      "costUsageData":[
+         {
+            "year":2018,
+            "cost":529.0,
+            "use":null,
+            "turnaway":null
+         },
+         {
+            "year":2019,
+            "cost":661.0,
+            "use":null,
+            "turnaway":null
+         }
+      ],
+      "sjr":{
+         "year":2014,
+         "sjr":0.547
+      },
+      "snip":null,
+      "citeScore":null,
+      "citeScoreTracker":null,
+      "cornellPubCounter":{
+         "map":{
+
+         },
+         "count":0
+      },
+      "costUsagePrintLines":[
+         "\"GM Crops\",\"ssj0000547543\",\"3093462\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1938-1999, type=Authority]]\",\"[EISSN [value=1938-2006, type=Authority]]\",\"null\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"\",\"SJR [year=2014, sjr=0.547]\",\"\",\"\",\"[ClickCount [year=2015, count=2, noOfRecords=41808], ClickCount [year=2018, count=1, noOfRecords=41810], ClickCount [year=2016, count=1, noOfRecords=41809]]\",\"CornellPubCounter [map={}, count=0]\",\"2018\",\"529.0\",\"null\",\"null\",\"0.0\"",
+         "\"GM Crops\",\"ssj0000547543\",\"3093462\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1938-1999, type=Authority]]\",\"[EISSN [value=1938-2006, type=Authority]]\",\"null\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"\",\"SJR [year=2014, sjr=0.547]\",\"\",\"\",\"[ClickCount [year=2015, count=2, noOfRecords=41808], ClickCount [year=2018, count=1, noOfRecords=41810], ClickCount [year=2016, count=1, noOfRecords=41809]]\",\"CornellPubCounter [map={}, count=0]\",\"2019\",\"661.0\",\"null\",\"null\",\"0.0\""
+      ],
+      "ssid":"ssj0000547543"
+   },
+   "Health Communication":{
+      "title":"HEALTH COMMUNICATION",
+      "titleId":2320,
+      "provider":{
+         "name":"Taylor & Francis",
+         "code":"PRVAWR"
+      },
+      "database_package":{
+         "name":"Taylor & Francis Online",
+         "code":"TFW"
+      },
+      "status":"Subscribed",
+      "type":"Journal",
+      "issns":[
+         {
+            "value":"1041-0236",
+            "type":"Authority"
+         }
+      ],
+      "eissns":[
+         {
+            "value":"1532-7027",
+            "type":"Authority"
+         }
+      ],
+      "isbn13":null,
+      "accessData":null,
+      "collection":null,
+      "access":"",
+      "licencse":"",
+      "subjects":[
+         " Public Health - General",
+         "Medicine - General"
+      ],
+      "clickData":{
+         "journal":"Health communication",
+         "database":"Taylor & Francis Online",
+         "issn":"1041-0236",
+         "clickCount":[
+            {
+               "year":2017,
+               "count":44,
+               "noOfRecords":44950
+            },
+            {
+               "year":2018,
+               "count":19,
+               "noOfRecords":44951
+            },
+            {
+               "year":2016,
+               "count":154,
+               "noOfRecords":44949
+            },
+            {
+               "year":2015,
+               "count":65,
+               "noOfRecords":44948
+            }
+         ]
+      },
+      "publisher":"Routledge",
+      "doi":"10.1080/hhth20",
+      "overallUses":1976.0,
+      "costperuse":4.6699314397649365,
+      "costUsageData":[
+         {
+            "year":2018,
+            "cost":1987.0,
+            "use":387.0,
+            "turnaway":null
+         },
+         {
+            "year":2016,
+            "cost":null,
+            "use":765.0,
+            "turnaway":8.0
+         },
+         {
+            "year":2019,
+            "cost":2384.0,
+            "use":null,
+            "turnaway":null
+         },
+         {
+            "year":2017,
+            "cost":null,
+            "use":634.0,
+            "turnaway":8.0
+         },
+         {
+            "year":2015,
+            "cost":null,
+            "use":190.0,
+            "turnaway":4.0
+         }
+      ],
+      "sjr":{
+         "year":2017,
+         "sjr":0.879
+      },
+      "snip":{
+         "year":2017,
+         "snip":1.065
+      },
+      "citeScore":{
+         "year":2017,
+         "citescore":1.69
+      },
+      "citeScoreTracker":{
+         "year":2018,
+         "citescoreTracker":1.33
+      },
+      "cornellPubCounter":{
+         "map":{
+            "2016":4,
+            "2017":4,
+            "2018":5,
+            "2010":1,
+            "1995":1,
+            "2012":1,
+            "2013":3,
+            "2014":4,
+            "2015":4
+         },
+         "count":28
+      },
+      "costUsagePrintLines":[
+         "\"HEALTH COMMUNICATION\",\"ssj0005642\",\"2320\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1041-0236, type=Authority]]\",\"[EISSN [value=1532-7027, type=Authority]]\",\"10.1080/hhth20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.065]\",\"SJR [year=2017, sjr=0.879]\",\"CiteScore [year=2017, citescore=1.69]\",\"CiteScoreTracker [year=2018, citescoreTracker=1.33]\",\"[ClickCount [year=2017, count=44, noOfRecords=44950], ClickCount [year=2018, count=19, noOfRecords=44951], ClickCount [year=2016, count=154, noOfRecords=44949], ClickCount [year=2015, count=65, noOfRecords=44948]]\",\"CornellPubCounter [map={2016=4, 2017=4, 2018=5, 2010=1, 1995=1, 2012=1, 2013=3, 2014=4, 2015=4}, count=28]\",\"2018\",\"1987.0\",\"387.0\",\"null\",\"1976.0\"",
+         "\"HEALTH COMMUNICATION\",\"ssj0005642\",\"2320\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1041-0236, type=Authority]]\",\"[EISSN [value=1532-7027, type=Authority]]\",\"10.1080/hhth20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.065]\",\"SJR [year=2017, sjr=0.879]\",\"CiteScore [year=2017, citescore=1.69]\",\"CiteScoreTracker [year=2018, citescoreTracker=1.33]\",\"[ClickCount [year=2017, count=44, noOfRecords=44950], ClickCount [year=2018, count=19, noOfRecords=44951], ClickCount [year=2016, count=154, noOfRecords=44949], ClickCount [year=2015, count=65, noOfRecords=44948]]\",\"CornellPubCounter [map={2016=4, 2017=4, 2018=5, 2010=1, 1995=1, 2012=1, 2013=3, 2014=4, 2015=4}, count=28]\",\"2015\",\"null\",\"190.0\",\"4.0\",\"1976.0\"",
+         "\"HEALTH COMMUNICATION\",\"ssj0005642\",\"2320\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1041-0236, type=Authority]]\",\"[EISSN [value=1532-7027, type=Authority]]\",\"10.1080/hhth20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.065]\",\"SJR [year=2017, sjr=0.879]\",\"CiteScore [year=2017, citescore=1.69]\",\"CiteScoreTracker [year=2018, citescoreTracker=1.33]\",\"[ClickCount [year=2017, count=44, noOfRecords=44950], ClickCount [year=2018, count=19, noOfRecords=44951], ClickCount [year=2016, count=154, noOfRecords=44949], ClickCount [year=2015, count=65, noOfRecords=44948]]\",\"CornellPubCounter [map={2016=4, 2017=4, 2018=5, 2010=1, 1995=1, 2012=1, 2013=3, 2014=4, 2015=4}, count=28]\",\"2016\",\"null\",\"765.0\",\"8.0\",\"1976.0\"",
+         "\"HEALTH COMMUNICATION\",\"ssj0005642\",\"2320\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1041-0236, type=Authority]]\",\"[EISSN [value=1532-7027, type=Authority]]\",\"10.1080/hhth20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.065]\",\"SJR [year=2017, sjr=0.879]\",\"CiteScore [year=2017, citescore=1.69]\",\"CiteScoreTracker [year=2018, citescoreTracker=1.33]\",\"[ClickCount [year=2017, count=44, noOfRecords=44950], ClickCount [year=2018, count=19, noOfRecords=44951], ClickCount [year=2016, count=154, noOfRecords=44949], ClickCount [year=2015, count=65, noOfRecords=44948]]\",\"CornellPubCounter [map={2016=4, 2017=4, 2018=5, 2010=1, 1995=1, 2012=1, 2013=3, 2014=4, 2015=4}, count=28]\",\"2019\",\"2384.0\",\"null\",\"null\",\"1976.0\"",
+         "\"HEALTH COMMUNICATION\",\"ssj0005642\",\"2320\",\"Provider [name=Taylor & Francis, code=PRVAWR]\",\"[ISSN [value=1041-0236, type=Authority]]\",\"[EISSN [value=1532-7027, type=Authority]]\",\"10.1080/hhth20\",\"DatabasePackage [name=Taylor & Francis Online, code=TFW]\",\"SNIP [year=2017, snip=1.065]\",\"SJR [year=2017, sjr=0.879]\",\"CiteScore [year=2017, citescore=1.69]\",\"CiteScoreTracker [year=2018, citescoreTracker=1.33]\",\"[ClickCount [year=2017, count=44, noOfRecords=44950], ClickCount [year=2018, count=19, noOfRecords=44951], ClickCount [year=2016, count=154, noOfRecords=44949], ClickCount [year=2015, count=65, noOfRecords=44948]]\",\"CornellPubCounter [map={2016=4, 2017=4, 2018=5, 2010=1, 1995=1, 2012=1, 2013=3, 2014=4, 2015=4}, count=28]\",\"2017\",\"null\",\"634.0\",\"8.0\",\"1976.0\""
+      ],
+      "ssid":"ssj0005642"
+   }
+}

@@ -1,8 +1,9 @@
-c3.generate({
+
+var sjrchart = c3.generate({
     bindto: '#sjr',
     data: {
         columns: [
-            ['SJR', 0.879]
+            ['SJR', 0]
         ],
         type: 'gauge',
         onmouseover: function (d, i) { console.log("onmouseover", d, i); },
@@ -33,11 +34,11 @@ c3.generate({
     }
 });
 
-c3.generate({
+var snipchart = c3.generate({
     bindto: '#snip',
     data: {
         columns: [
-            ['SNIP', 1.065]
+            ['SNIP', 0]
         ],
         type: 'gauge',
         onmouseover: function (d, i) { console.log("onmouseover", d, i); },
@@ -68,11 +69,11 @@ c3.generate({
     }
 });
 
-c3.generate({
+var citescorechart =c3.generate({
     bindto: '#citescore',
     data: {
         columns: [
-            ['CiteScore', 1.69]
+            ['CiteScore', 0]
         ],
         type: 'gauge',
         onmouseover: function (d, i) { console.log("onmouseover", d, i); },

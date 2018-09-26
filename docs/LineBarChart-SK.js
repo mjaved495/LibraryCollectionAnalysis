@@ -1,4 +1,4 @@
-var chart = c3.generate({
+var linechart = c3.generate({
     bindto: '#chart',
     data: {
         x: 'x',
