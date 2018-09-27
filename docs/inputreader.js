@@ -22,7 +22,7 @@ d3.json("TF-SK-Output.json", function(error, data) {
 var populateData = function(journal){
 	console.log(journal);
 	selectedJournal = journal;
-	document.getElementById("heading").innerHTML = journal.title +" -"+journal.type;
+	document.getElementById("heading").innerHTML = "<a href='https://newcatalog.library.cornell.edu/catalog/"+journal.bibId+"' target='_blank'>"+journal.title +"</a> -"+journal.type;
 	document.getElementById("titleId").innerHTML = journal.titleId;
 	document.getElementById("ssid").innerHTML = journal.ssid;
 	document.getElementById("provider").innerHTML = journal.provider.name+" ("+journal.provider.code+")";
@@ -35,7 +35,8 @@ var populateData = function(journal){
   document.getElementById("publisher").innerHTML = journal.publisher;
   document.getElementById("status").innerHTML = journal.status;
   document.getElementById("subjects").innerHTML = journal.subjects;
-
+  document.getElementById("bibId").innerHTML = journal.bibId;
+  
   if(journal.citeScoreTracker === null){
 		journal.citeScoreTracker = {year: 2018, citescoreTracker: 'Not Known'};
 	}
