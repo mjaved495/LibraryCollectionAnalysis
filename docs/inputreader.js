@@ -22,7 +22,7 @@ d3.json("TF-SK-Output.json", function(error, data) {
 var populateData = function(journal){
 	console.log(journal);
 	selectedJournal = journal;
-	document.getElementById("heading").innerHTML = journal.title;
+	document.getElementById("heading").innerHTML = journal.title +" -"+journal.type;
 	document.getElementById("titleId").innerHTML = journal.titleId;
 	document.getElementById("ssid").innerHTML = journal.ssid;
 	document.getElementById("provider").innerHTML = journal.provider.name+" ("+journal.provider.code+")";
@@ -31,7 +31,12 @@ var populateData = function(journal){
 	document.getElementById("doi").innerHTML = journal.doi;
 	document.getElementById("dbpckg").innerHTML = journal.database_package.name+" ("+journal.database_package.code+")";
 	document.getElementById("cornellCount").innerHTML = journal.cornellPubCounter.count;
-	if(journal.citeScoreTracker === null){
+  document.getElementById("overallusage").innerHTML = journal.overallUses;
+  document.getElementById("publisher").innerHTML = journal.publisher;
+  document.getElementById("status").innerHTML = journal.status;
+  document.getElementById("subjects").innerHTML = journal.subjects;
+
+  if(journal.citeScoreTracker === null){
 		journal.citeScoreTracker = {year: 2018, citescoreTracker: 'Not Known'};
 	}
 	document.getElementById("citescoretracker").innerHTML = journal.citeScoreTracker.citescoreTracker +" ("+journal.citeScoreTracker.year+")";
@@ -96,7 +101,7 @@ function populateJournalMetrics(){
 function populateCornellPublicationCountChart(){
 	//count: 3
 	//map: {2013: 1, 2014: 1, 2016: 1}
-	console.log(selectedJournal.cornellPubCounter.count);
+	//console.log(selectedJournal.cornellPubCounter.count);
 	var map = selectedJournal.cornellPubCounter.map;
 	var values = [];
 	var keys = [2010,2011,2012,2013,2014,2015,2016,2017,2018];
@@ -154,10 +159,10 @@ function populateUsageDataChart(){
   		var index = xaxis.indexOf(yearData.year);
   		if(yearData.count) { clickdata[index] = yearData.count; }
   	}
-console.log(costdata);
-console.log(usagedata);
-console.log(turnawaydata);
-console.log(clickdata);
+// console.log(costdata);
+// console.log(usagedata);
+// console.log(turnawaydata);
+// console.log(clickdata);
 
 	linechart.load({
   		columns: [
