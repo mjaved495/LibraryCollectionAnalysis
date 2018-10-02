@@ -6,8 +6,12 @@ var sjrchart = c3.generate({
             ['SJR', 0]
         ],
         type: 'gauge',
-        onmouseover: function (d, i) { console.log("onmouseover", d, i); },
-        onmouseout: function (d, i) { console.log("onmouseout", d, i); }
+        onmouseover: function (d, i) { 
+          // console.log("onmouseover", d, i); 
+        },
+        onmouseout: function (d, i) { 
+          // console.log("onmouseout", d, i); 
+        }
     },
     gauge: {
        label: {
@@ -41,8 +45,12 @@ var snipchart = c3.generate({
             ['SNIP', 0]
         ],
         type: 'gauge',
-        onmouseover: function (d, i) { console.log("onmouseover", d, i); },
-        onmouseout: function (d, i) { console.log("onmouseout", d, i); }
+        onmouseover: function (d, i) { 
+          // console.log("onmouseover", d, i); 
+        },
+        onmouseout: function (d, i) { 
+          // console.log("onmouseout", d, i); 
+        }
     },
     gauge: {
        label: {
@@ -76,8 +84,12 @@ var citescorechart =c3.generate({
             ['CiteScore', 0]
         ],
         type: 'gauge',
-        onmouseover: function (d, i) { console.log("onmouseover", d, i); },
-        onmouseout: function (d, i) { console.log("onmouseout", d, i); }
+        onmouseover: function (d, i) { 
+          // console.log("onmouseover", d, i); 
+        },
+        onmouseout: function (d, i) { 
+          // console.log("onmouseout", d, i); 
+        }
     },
     gauge: {
        label: {

@@ -2,21 +2,50 @@ var key;
 var journals;
 var selectedJournal;
 
-d3.json("TF-SK-Output.json", function(error, data) {
-	journals = data;
-	var options = Object.keys(data);
-	var select = document.getElementById("selector");
-	for(var i = 0; i < options.length; i++) {
-    	var opt = options[i];
-    	var el = document.createElement("option");
-    	el.textContent = opt;
-    	el.value = opt;
-    	select.appendChild(el);
-    }
+
+var loadFile = function(fileName){
+  if(!fileName.endsWith(".json")) return;
+
+  d3.json(fileName, function(error, data) {
+   journals = data;
+   var options = Object.keys(data);
+   
+   removeOptions(document.getElementById("selector"));
+   var select = document.getElementById("selector");
+   for(var i = 0; i < options.length; i++) {
+       var opt = options[i];
+       var el = document.createElement("option");
+       el.textContent = opt;
+       el.value = opt;
+       select.appendChild(el);
+      }
+      
+      key = Object.keys(data)[0];
+   populateData(data[key]);
+  });
+}
+
+function removeOptions(selectbox) {
+  var i;
+  for(i = selectbox.options.length - 1 ; i >= 0 ; i--) {
+    selectbox.remove(i);
+  }
+}
+// d3.json("TF-SK-Output.json", function(error, data) {
+// 	journals = data;
+// 	var options = Object.keys(data);
+// 	var select = document.getElementById("selector");
+// 	for(var i = 0; i < options.length; i++) {
+//     	var opt = options[i];
+//     	var el = document.createElement("option");
+//     	el.textContent = opt;
+//     	el.value = opt;
+//     	select.appendChild(el);
+//     }
     
-    key = Object.keys(data)[0];
-	populateData(data[key]);
-});
+//     key = Object.keys(data)[0];
+// 	populateData(data[key]);
+// });
 
 
 var populateData = function(journal){
@@ -46,6 +75,15 @@ var populateData = function(journal){
 	populateCornellPublicationCountChart();
 	populateUsageDataChart();
 }
+
+
+function onChangeSelectInputFile(){
+  var inputFile = document.getElementById("fileSelector").value;
+  selectedFile = inputFile;
+  console.log(inputFile);
+  loadFile(selectedFile);
+}
+
 
 function onChangePopulateJournalData() {
 	//console.log("populate");

@@ -33,15 +33,27 @@
          width: 80%;
           display: inline-block;
       }
+
+      #selector #fileSelector{
+        padding-right: 200px;
+        display: inline-block;
+      }
+
 		</style>
 
 	</head>
 	<body>
-    <form id="myForm">
+    
+    <form id="fileForm">
+      <select id="fileSelector" onchange="onChangeSelectInputFile()">
+        <option>Select a file</option>
+        <option>Springer-Output.json</option>
+        <option>TF-SK-Output.json</option>
+      </select>
       <select id="selector" onchange="onChangePopulateJournalData()">
       </select>
     </form>
-    
+
     <!-- <div ng-controller="Ctrl">     
       <select ng-model="journal" ng-options="item as item.text for item in items"></select>
     </div> -->
