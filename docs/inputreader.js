@@ -7,9 +7,9 @@ var loadFile = function(fileName){
   if(!fileName.endsWith(".json")) return;
 
   d3.json(fileName, function(error, data) {
-   journals = data;
+    journals = data;
    var options = Object.keys(data);
-   
+   options.sort();
    removeOptions(document.getElementById("selector"));
    var select = document.getElementById("selector");
    for(var i = 0; i < options.length; i++) {
@@ -19,7 +19,6 @@ var loadFile = function(fileName){
        el.value = opt;
        select.appendChild(el);
       }
-      
       key = Object.keys(data)[0];
    populateData(data[key]);
   });
