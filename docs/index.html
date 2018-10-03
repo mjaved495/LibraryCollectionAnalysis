@@ -3,11 +3,15 @@
 	<head>
 		<link rel="stylesheet" type="text/css" href="https://rawgit.com/masayuki0812/c3/master/c3.css">
 		<style>
+      div {
+        font-size: 15px;
+      }
 			#table {
-    			height: 240px;
+    			/*height: 180px;*/
     			/*/*width: 800px;*/
 				}
 			table {
+        font-size: 12px;
 				font-family: arial, sans-serif;
 				border-collapse: collapse;
 				width: 100%;
@@ -58,8 +62,7 @@
       <select ng-model="journal" ng-options="item as item.text for item in items"></select>
     </div> -->
 
-		<h1 id="heading"></h1>
-		<br/>
+		<h3 id="heading"></h3>
 		<div id ="table">
     <table>
   			<tr>
@@ -118,14 +121,14 @@
         </tr>
   		</table>
     </div>
-    <h2>STATISTICS</h2>
+    <h3>STATISTICS</h3>
     <div id="chart"></div>
     <div id="cornell"></div>  
-    <h2>JOURNAL METRICS</h2>
+    <h3>JOURNAL METRICS</h3>
     <div id="sjr"></div>  
     <div id="snip"></div> 
     <div id="citescore"></div>  
-    <br/><br/>
+    <br/>
 		
 
 

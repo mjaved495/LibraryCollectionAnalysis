@@ -19,8 +19,8 @@ var loadFile = function(fileName){
        el.value = opt;
        select.appendChild(el);
       }
-      key = Object.keys(data)[0];
-   populateData(data[key]);
+      key = options[0];
+      populateData(data[key]);
   });
 }
 
@@ -87,9 +87,12 @@ function onChangeSelectInputFile(){
 function onChangePopulateJournalData() {
 	//console.log("populate");
     var journal = document.getElementById("selector").value;
+    //console.log(journal);
+    //console.log(journals);
     selectedJournal = journals[journal];
+    console.log(selectedJournal);
     populateData(selectedJournal);
-    //console.log(selectedJournal);
+    
 }
 
 function populateJournalMetrics(){
@@ -147,7 +150,7 @@ function populateCornellPublicationCountChart(){
 	var i;
 	for(i=0; i<keys.length;i++){
 		//console.log(keys[i]);
-		if(map[keys[i]] != null){
+		if(map != null && map[keys[i]] != null){
 			values.push(map[keys[i]]);
 		}else {
 			values.push(0);
