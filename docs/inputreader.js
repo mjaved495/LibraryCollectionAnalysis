@@ -183,6 +183,7 @@ function populateUsageDataChart(){
   	var usagedata =  	['UsageData', 0,0,0,0,0];
   	var turnawaydata = 	['TurnawayData', 0,0,0,0,0];
   	var clickdata = 	['ClickData', 0,0,0,0,0];
+    var downloaddata =  ['DownloadData', 0,0,0,0,0];
   	//console.log(selectedJournal.costUsageData);
   	
 	var i;
@@ -193,6 +194,7 @@ function populateUsageDataChart(){
   		if(yearData.cost) { costdata[index] = yearData.cost; }
   		if(yearData.use) { usagedata[index] = yearData.use; }
   		if(yearData.turnaway) { turnawaydata[index] = yearData.turnaway; }
+      if(yearData.pubCount) { downloaddata[index] = yearData.pubCount; }
   	}
   	var j;
   	for(i=0; i<selectedJournal.clickData.clickCount.length;i++){
@@ -207,7 +209,7 @@ function populateUsageDataChart(){
 
 	linechart.load({
   		columns: [
-  			xaxis, costdata, usagedata, turnawaydata, clickdata
+  			xaxis, costdata, usagedata, turnawaydata, clickdata, downloaddata
     	]
     	}); 
 }
